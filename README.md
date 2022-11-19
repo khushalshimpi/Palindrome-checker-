@@ -1,4 +1,4 @@
-## **Project Title** - Todo App
+## **Project Title** - Palindrom Checker
 
 ##  Time to complete this project :-
 ![2Hrs](https://img.shields.io/badge/2-Hrs-green)
@@ -14,17 +14,17 @@ Project  built from using
 **&**
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-yellow)
 
-[Click Me](https://to-do-app-khushal.netlify.app/) to see the project Demo.
+[Click Me](https://palindrom-checker-khushal.netlify.app/) to see the project Demo.
 
 
 
 ## Screenshot of  project :-
-![screenshot](./to-do.png)
+![screenshot](./palindrom.png)
 
 
 
 
 ## Features :-
 
-- We can add, check and delete our todo .
+- Using this program we can find wheather the given string is palindrome or not.
 
