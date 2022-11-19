@@ -18,8 +18,16 @@ btnCheck.addEventListener("click", (e) => {
   //join the reverse array 
   const joinArray = reArray.join("");
 
-  //check palindrome   
-  if (inputWord === joinArray) {
+  
+
+  //check palindrome
+  if (inputWord === ""){
+    document.querySelector(".output-text").innerHTML = 
+    `
+    <p style="font-size: 1rem;">Given string is empty. It's not valid</p>
+    `
+  }   
+  else if (inputWord === joinArray) {
     document.querySelector(".output-text").innerHTML = 
     `
     <div class = output>
